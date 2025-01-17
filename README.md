@@ -1,4 +1,4 @@
-##ss-dice
+## ss-dice
 
 A simple script for FiveM [ESX] dice rolling includes registering a command that generates random dice values
 
